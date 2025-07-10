@@ -5,7 +5,7 @@ Ruibo Chen*, Yihan Wu*, Junfeng Guo, Heng Huang
 
 
 <p align="center">
-<img src=images/mcmark_method.png  width="60%" height="60%">
+<img src=images/mcmark_method.png  width="60%">
 </p>
 
 
@@ -13,7 +13,7 @@ In this paper, we introduce **MCMARK**, a family of unbiased, **M**ulti-**C**han
 not only preserves the original distribution of the language model but also offers significant improvements in detectability and robustness over existing unbiased watermarks.
 
 <p align="center">
-<img src=images/mcmark_experiments.png  width="95%" height="60%">
+<img src=images/mcmark_experiments.png  width="95%">
 </p>
 
 
